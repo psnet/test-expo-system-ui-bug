@@ -1,1 +1,0 @@
-# test-expo-system-ui-bug
